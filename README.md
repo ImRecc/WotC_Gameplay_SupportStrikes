@@ -46,3 +46,5 @@ You can clone this repo and edit the mod in Modbuddy. If you want to contribute 
 ## Bug Report
 If you found a bug, please create an issue in the repo. Submit the Launch.log file and your modlist (you can get this from AML's Profile feature), and a description on how to reproduce the bug.
 
+## some thought of wotc mods
+dunno why the mod buddy not auto-install it's dependency.. just in it's own folder!
