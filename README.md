@@ -41,10 +41,11 @@ Adds support strikes to XCom 2
 - For Helicopter Drop In, you can extensively edit the config file to drop in your own custom character pool characters and even their weapon.
 
 ## Development
-You can clone this repo and edit the mod in Modbuddy. If you want to contribute you can submit an issue and a pull request pertaining to that issue.
+You can clone this repo and edit the mod in Modbuddy. If you want to contribute you can submit an issue and a pull request pertaining to that issue. 
 
 ## Bug Report
 If you found a bug, please create an issue in the repo. Submit the Launch.log file and your modlist (you can get this from AML's Profile feature), and a description on how to reproduce the bug.
 
 ## some thought of wotc mods
 dunno why the mod buddy not auto-install it's dependency.. just in it's own folder!
+## placeholder for incoming changes saves
